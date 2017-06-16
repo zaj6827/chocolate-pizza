@@ -90,3 +90,7 @@ ul {
   bottom: 100px;
   left: 450px;
 }
+
+.strike {
+  text-decoration: line-through;
+}
