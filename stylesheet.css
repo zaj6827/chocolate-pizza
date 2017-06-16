@@ -1,0 +1,92 @@
+#siteName {
+  font-family: 'Yellowtail', cursive;
+  font-size: 32px;
+  position:absolute;
+  top:0px;
+  left:470px;
+}
+#logo {
+  position: relative;
+  top:40px;
+  left: 470;
+}
+#siteSlogan {
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 10px;
+  position:absolute;
+  top:60px;
+  left:470px;
+  margin-bottom: 50px;
+}
+
+#headtitle {
+  margin-top: 4em;
+}
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+
+#vanpic {
+  position:absolute;
+}
+
+.vanfooter {
+  position: relative;
+  left: 100px
+}
+
+button {
+  position: absolute;
+  left: 1150px;
+  top: 1630px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#ul1 {
+  position: absolute;
+  right: 1100px;
+  top: 1300px;
+  font-size: 20px;
+  font-family: 'Architects Daughter', cursive;
+}
+#ul2 {
+  position: absolute;
+  right:600px;
+  top: 1300px;
+  font-size: 20px;
+  font-family: 'Architects Daughter', cursive;
+}
+
+p {
+  text-align: center;
+}
+
+#hero {
+  text-align: center;
+}
+
+#social {
+  position: absolute;
+  top:50px;
+  right:525px;
+}
+.copywrite {
+  text-align: center;
+  margin-top: 50px;
+}
+
+ul {
+  z-index: 30;
+  position:relative;
+  down: 100px;
+}
+
+
+#logo {
+  display: absolute
+  bottom: 100px;
+  left: 450px;
+}
